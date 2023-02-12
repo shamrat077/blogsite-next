@@ -1,0 +1,19 @@
+.singleBlog {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.singleBlog__title {
+  color: #000;
+}
+
+.singleBlog__btn {
+  padding: 0.5rem 1.5rem;
+  color: #fff;
+  border-radius: 30px;
+  background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
